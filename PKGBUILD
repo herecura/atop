@@ -5,7 +5,7 @@
 
 pkgname=atop
 pkgver=2.3.0
-pkgrel=1
+pkgrel=2
 pkgdesc='A system and process level monitor'
 arch=('x86_64')
 url='http://www.atoptool.nl/'
